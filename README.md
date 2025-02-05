@@ -1,2 +1,2 @@
-Esto es la informacion del taller
+Aqui esta la información sobre este taller 
 La información es:
